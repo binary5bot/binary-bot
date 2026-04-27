@@ -3,8 +3,6 @@ import requests
 from datetime import datetime
 
 app = Flask(__name__)
-
-# আপনার API Key বসানো হয়েছে
 API_KEY = "d7njda1r01qppri53h30d7njda1r01qppri53h3g"
 
 HTML_TEMPLATE = '''
